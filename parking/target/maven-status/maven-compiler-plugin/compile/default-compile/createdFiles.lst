@@ -1,0 +1,7 @@
+com\jcode\parking\dtos\ParkingSpotDto.class
+com\jcode\parking\services\ParkingSpotService.class
+com\jcode\parking\models\ParkingSpotModel.class
+com\jcode\parking\ServletInitializer.class
+com\jcode\parking\controllers\ParkingSpotController.class
+com\jcode\parking\ParkingApplication.class
+com\jcode\parking\repositories\ParkingSpotRepository.class
